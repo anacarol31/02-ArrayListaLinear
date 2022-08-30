@@ -8,4 +8,5 @@ Faça um fork deste repositorio e implemente a função buscarElemento
 * Se encontrado exibe a posição do numero na lista
 * Se não econtrado exibe "elemento não encontrado" 
 
-
+Ana Caroline
+ana.amaral9@fatec.sp.gov.br
